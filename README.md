@@ -101,7 +101,7 @@ python PlayerSegmentationUNet.py
 
 ![Original Image](dataset_seg/images/0.jpg)
 
-- Предсказанная маска:
+- Ожидаемая маска:
 
-(будет показана через `matplotlib` в окне при запуске скрипта)
+![Prediction Mask](dataset_seg/masks/0.png)
 
